@@ -23,16 +23,16 @@ Data Visualization: I visualized the data using Matplotlib.
 I used 3 of Machine Learning Algorithms: Linear Regression, Decision Tree Regressor, & Ranodm Forest Regressor. and calculated the MSE and R2 metrics.
 
 Features (X):
-fixed acidity
-volatile acidity
-citric acid
-residual sugar
-chlorides
-free sulfur dioxide
-total sulfur dioxide
-density
-pH
-sulphates
+fixed acidity,
+volatile acidity,
+citric acid,
+residual sugar,
+chlorides,
+free sulfur dioxide,
+total sulfur dioxide,
+density,
+pH,
+sulphates,
 alcohol
 
 Target Variable (y):
